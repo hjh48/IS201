@@ -1,0 +1,10 @@
+.foot{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    color: aqua;
+}
+.center{
+    margin-left: 300px;
+}

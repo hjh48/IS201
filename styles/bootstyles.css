@@ -1,0 +1,31 @@
+.Tableft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+body{
+    resize: both;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    background-color: antiquewhite;
+}
+
+.foot{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+}
+footer{
+    background-color: lightgray;
+    left: 5px;
+    right: 5px;
+    height: 70px;
+}
+.topnav{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
